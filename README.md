@@ -1,4 +1,3 @@
-```markdown
 # Learning When to Translate for Multilingual Reasoning
 
 ![Paper Banner](assets/LUAR.JPG)
@@ -18,4 +17,3 @@ This repository provides the code and resources for **Luar**, a **L**anguage **U
 **Luar** trains reasoning language models to selectively invoke translation only when their direct understanding of the original input is unreliable, improving multilingual reasoning performance while avoiding unnecessary translation.
 
 The codebase is currently being organized and will be released within June 2026. Stay tuned!
-```
